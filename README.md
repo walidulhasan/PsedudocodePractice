@@ -1,0 +1,2 @@
+# PsedudocodePractice
+Psedudo Code Practice
